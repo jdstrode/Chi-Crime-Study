@@ -1,0 +1,7 @@
+Instructions:
+
+1) Download file from:  https://stacks.stanford.edu/file/druid:yg821jf8611/yg821jf8611_il_chicago_2020_04_01.csv.zip
+
+2) unzip file
+
+3) rename .csv file "chicagodata.csv" and save into folder: crime_data
