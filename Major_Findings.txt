@@ -1,0 +1,25 @@
+
+GENERAL DEMOGRAPHICS:
+- Sex is the most consistently reported demographic, as only 0.04% of values were Not Reported.
+- Over 600,000 drivers in our dataset had missing values for Race/Ethnicity. This indicates that our dataset cannot portray the entire reality of traffic stops in Chicago. A possible solution to this would be to audit officer reports to ensure that all information is being collected.
+- In Chicago, traffic stops occur overwhelmingly most often for male drivers. Source: Sex.png
+- Traffic stops occur most often for drivers who are 25-34 years of age. We can fairly safely assume that this is the most accurate demographic data, since officers will have a driver's age available on their license. Source: Age.png
+- Black and Hispanic/Latinx drivers were stopped more often than white drivers. These driver demographics do not reflect the demographics of Chicago. According to Census.gov population estimates, the population of Chicago is approximately, 33% Non-hispanic white, 29% Black, and 29% Hispanic/Latinx. If traffic stops were reflective of the population, the bars would be approximately equal in size. Source: Race_Ethnicity.png
+
+
+LOCATION DATA:
+
+
+MOST COMMON TIME POINTS FOR STOP TO OCCUR:
+
+
+DEMOGRAPHIC RELATIONSHIPS:
+
+
+LIMITATIONS:
+- This is an incomplete dataset, as it had many missing variables, and is reflective of the issues the Stanford Open Policing Report encountered. They filed public record requests with all 50 states, were able to collect data from 31 states, and 20 of those states provided enough detail to analyze racial disparities
+
+
+
+OUTSIDE SOURCES:
+- Census.gov: https://www.census.gov/quickfacts/chicagocityillinois
