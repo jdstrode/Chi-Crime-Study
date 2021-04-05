@@ -11,7 +11,8 @@ Location Data
 - Used pd.notnull to remove all datapoints that were missing coordinates. This was all that was necessary to create the primary data set, but also made subsets for drivers that were black and white.
 
 Most common time points for a stop to occur:
-
+- Isolated the date, time, violation, arrest_made, citation_issued, and outcome columns. 
+- Dropped all of the NA values dropping the dataset from 846456 to 5737. Then, proceeded to combine date and time column and create a date time index. This allowed to explore if time of the day when stops occurred and a yearly analysis of the data.
 
 Demographic Relationships
 - Isolated the subject_race & officer_race columns, then dropped all NA values. This took the dataset from 846,121 total rows to 164,434 rows.
