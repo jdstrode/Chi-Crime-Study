@@ -8,9 +8,12 @@ General Demographics:
 - Analysis/Clean Up of Race/Ethnicity: Again, there were many NA values for this variable. This time, I replaced NA with Not Reported, as knowing how many officers don't report race/ethnicity is critical to understanding the limitations of this dataset. After replacing the NA values, I used Matplotlib to create a bar chart of race/ethnicity.
 
 Location Data
-
+- Used pd.notnull to remove all datapoints that were missing coordinates. This was all that was necessary to create the primary data set, but also made subsets for drivers that were black and white.
 
 Most common time points for a stop to occur:
 
 
 Demographic Relationships
+- Isolated the subject_race & officer_race columns, then dropped all NA values. This took the dataset from 846,121 total rows to 164,434 rows.
+- Analysis of Incident Count by Race: Created a table of incidents by race of driver and officer and used this table to create bar graph to analyze relationships between race of driver and officer.
+- Analysis of Reported Crimes per Subject Race: Did a groupby of driver race and officer race to create a bar graph.
