@@ -8,12 +8,29 @@ GENERAL DEMOGRAPHICS:
 
 
 LOCATION DATA:
+- There are hotspots for stops along the lakefront and near Oak Park.  
+- The South Side also has a higher density of stops.
+- A closer examination using the bar chart, "Stops by Neighborhood in Chicago," reveals that stops are disproportionately made on the South Side, where almost half of all stops are made. We also found the number of stops made downtown to be surprisingly small, though this could be due to the size of downtown compared to other areas defined.
+
 
 
 MOST COMMON TIME POINTS FOR STOP TO OCCUR:
 
 
+
 DEMOGRAPHIC RELATIONSHIPS:
+- White officers represented over half the entire police force, while black & hispanic drivers were involved in over ⅔ of the incidents reported.
+- White officers overwhelmingly arrested more hispanic & black drivers (about half as many white as black drivers).
+- Black officers overwhelmingly arrested more black drivers.
+- Hispanic officers arrested significantly more black & hispanic drivers.
+- The proportion of hispanic & white reported crimes were substantially less for black officers than those of white officers. 
+
+
+HOW DOES THIS COMPARE TO STANDFORD'S FINDINGS IN THE OVERALL DATASET?
+- Stanford found that Black drivers were stopped more often than white drivers, but Hispanic/Latinx drivers were stopped less often than white drivers.
+- After controlling for other demographics and time and location, Black and Hispanic/Latinx drivers were more likely to be ticketed, searched, and arrested compared to white drivers.
+- Threshold analysis indicated that Black and Hispanic/Latinx drivers were searched on the basis of less evidence than white drivers.
+
 
 
 LIMITATIONS:
