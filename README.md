@@ -44,3 +44,17 @@ Team Members: J.D. Strode, Vaidehee Shah, Peter Sparks & Melissa Mongrella
 - Isolated the subject_race & officer_race columns, then dropped all NA values. This took the dataset from 846,121 total rows to 164,434 rows.
 - Analysis of Incident Count by Race: Created a table of incidents by race of driver and officer and used this table to create bar graph to analyze relationships between race of driver and officer.
 - Analysis of Reported Crimes per Subject Race: Did a groupby of driver race and officer race to create a bar graph.
+
+## Sample Images: 
+
+#### What role does race play in traffic incidents?
+
+![Incident Count by Race](working_files/jds/images/Officer_And_Subject_Races.png)
+
+#### Were do stops occur?
+
+![Stops Map](working_files/peter/Peters_Images/Screen_Shot_2021-04-03_at_10.51.46_AM.png)
+
+#### What are the common stop times?
+![Common Timepoint Spots](working_files/vaidhee/Common_Timepoint_Stops.png)
+
